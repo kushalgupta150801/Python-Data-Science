@@ -1,2 +1,2 @@
-# Python & Data-Science
-My All Python &amp; Data Science Projects 
+# Python & Data Science
+My All Python & Data Science Projects 
