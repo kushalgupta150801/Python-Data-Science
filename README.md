@@ -1,2 +1,2 @@
-# Python, Data Science & Data Analysis
-My All Python, Data Science & Data Analysis Projects 
+# Python, Data Science & Data Analytics
+My All Python, Data Science & Data Analytics Projects 
