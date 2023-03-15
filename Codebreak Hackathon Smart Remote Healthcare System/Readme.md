@@ -11,11 +11,11 @@ Our Problem: Our problem statement is now a day many busy people are facing more
 
 Introduction: According to our theme i.e. Smart Hospital we will make our health care system more smart by adding some feature and application. We are making a hardware device named smart health monitoring system which will be use to monitor health condition by means of some sensors like temperature sensor for measuring body temperature, pulse rate sensor for measuring pulse rate, calories burned, numbers of steps, sleep quantity and we can also measure stress level of a patient by relative pulse rate monitoring. Then we will collect all the data from sensors and it will be send to the server by internet then from the server it will send to the mobile application of doctors.
 
-**Pros :**
-Immediate Action can be taken in the case of emergency.
+**Pros :
+Immediate Action can be taken in the case of emergency.**
 	
 **Cons :
-If any case the internet is not available then our system will fail.
+If any case the internet is not available then our system will fail.*
 
 Proposed Working/Model: The all sensors will connect to our ESP8266 WiFi development Board and then the ESP8266 will be connected to the server i.e. Firebase with the help of Internet. Firebase is an online platform where we can save our real time data and then we can send it to a application which will be made by us. ESP8266 is a module which consist of WiFi and can be connect to Internet and then we can send our data to any other client which is far away from our module but condition there should be the internet connection. For sending data we have to store our data to any server after which can send to the client regardless of his distance from the source. Here we are using Google Firebase which is a mobile and web application development platform where we can store our data to send on app.
 
