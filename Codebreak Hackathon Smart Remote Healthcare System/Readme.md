@@ -4,7 +4,7 @@ This was an hackathon which was held on 14th and 15th March 2019. It was 24 hour
 
 **Our team members :**
 
-1. Vicky(Team Leader)		https://github.com/vicky-gupta
+1. [Vicky(Team Leader)]		(https://github.com/vicky-gupta)
 2. Prashant sajwan		https://github.com/PRASHANT-SAJWAN
 3. Jatin Goyal			https://github.com/Jatin-Goyal5
 4. Kushal Gupta			https://github.com/kushalgupta150801
@@ -19,7 +19,6 @@ Our problem statement is now a day many busy people are facing more problems reg
 According to our theme i.e. Smart Hospital we will make our health care system more smart by adding some feature and application. We are making a hardware device named smart health monitoring system which will be use to monitor health condition by means of some sensors like temperature sensor for measuring body temperature, pulse rate sensor for measuring pulse rate, calories burned, numbers of steps, sleep quantity and we can also measure stress level of a patient by relative pulse rate monitoring. Then we will collect all the data from sensors and it will be send to the server by internet then from the server it will send to the mobile application of doctors.
 
 **Pros :
-
 Immediate Action can be taken in the case of emergency.**
 	
 **Cons :
