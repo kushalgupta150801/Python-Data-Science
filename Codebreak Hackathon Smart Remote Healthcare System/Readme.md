@@ -3,8 +3,6 @@
 This was an hackathon which was held on 14th and 15th March 2019. It was 24 hour hackathon in which we have secured 1st rank for our unique idea. It is a team Project. 
 
 **Our team members :**
-##**Our Team Member**
-
 1. [Vicky (Team Leader)](https://github.com/vicky-gupta)
 2. [Prashant Sajwan](https://github.com/PRASHANT-SAJWAN)
 3. [Jatin Goyal](https://github.com/Jatin-Goyal5)
