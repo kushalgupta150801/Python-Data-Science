@@ -10,9 +10,9 @@ This was an hackathon which was held on 14th and 15th March 2019. It was 24 hour
 4. [Kushal Gupta](https://github.com/kushalgupta150801)
 
 
-**Our Problem :**
+**Our Problem Statement:**
 
-Our problem statement is now a day many busy people are facing more problems regarding their health due to their busy life they are not to able to monitor their health condition properly. And they get easily sick or committed to weakness just because they are not able to update their health and sometimes if we did not mind them then these small diseases can be fatal in future. So we have to make a system which can help them out to monitor their own health problems and the all the received data can be used in treatment of that individual.
+Now a days many busy people are facing more problems regarding their health due to their busy life they are not to able to monitor their health condition properly. And they get easily sick or committed to weakness just because they are not able to update their health and sometimes if we did not mind them then these small diseases can be fatal in future. So we have to make a system which can help them out to monitor their own health problems and the all the received data can be used in treatment of that individual.
 
 **Introduction :**
 
