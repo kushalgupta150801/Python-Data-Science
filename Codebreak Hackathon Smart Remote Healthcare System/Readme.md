@@ -22,7 +22,7 @@ According to our theme i.e. Smart Hospital we will make our health care system m
 Immediate Action can be taken in the case of emergency.**
 	
 **Cons :
-If any case the internet is not available then our system will fail.**
+In any case the internet is not available, then our system will fail.**
 
 **Proposed Working Model :**
 
