@@ -1,2 +1,0 @@
-# Cryptocorrecy Prediction
-
